@@ -60,3 +60,9 @@ If you need to modify the connection string for your environment:
 3. **Verify Connection**: Ensure the connection string matches your SQL Server setup
 4. **Build**: Build the solution (Ctrl+Shift+B)
 5. **Run**: Start the application (F5)
+
+## 📸 UI Preview
+
+![normal-dashboard](https://github.com/user-attachments/assets/3ca1d27d-e7e5-4123-9455-358e5d0cbad0)
+![maxed dashboard](https://github.com/user-attachments/assets/8fd3fdd8-baee-411f-a203-dc811aa0e026)
+![Log In](https://github.com/user-attachments/assets/66024ba6-67ab-4932-b20d-81620b52f47c)
