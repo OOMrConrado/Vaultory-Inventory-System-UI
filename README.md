@@ -63,6 +63,13 @@ If you need to modify the connection string for your environment:
 
 ## 📸 UI Preview
 
-![normal-dashboard](https://github.com/user-attachments/assets/3ca1d27d-e7e5-4123-9455-358e5d0cbad0)
+![2Log In](https://github.com/user-attachments/assets/834c1e1e-3671-4e51-a4a3-a3b87dc6dadc)
+
+---
+
 ![maxed dashboard](https://github.com/user-attachments/assets/8fd3fdd8-baee-411f-a203-dc811aa0e026)
-![Log In](https://github.com/user-attachments/assets/66024ba6-67ab-4932-b20d-81620b52f47c)
+
+---
+
+![2normal-dashboard](https://github.com/user-attachments/assets/7558fa4a-5251-4f06-9209-191eda95f59c)
+
