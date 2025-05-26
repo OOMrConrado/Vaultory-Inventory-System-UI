@@ -12,7 +12,7 @@ namespace Vaultory.Repositories
         private readonly string _connectionString;
         public RepositoryBase()
         {
-            _connectionString = "Server=DESKTOP-CONRADO\\SQLEXPRESS; Database=Vaultory; Integrated Security=true";
+            _connectionString = "Server=(local); Database=Vaultory; Integrated Security=true";
         }
         protected SqlConnection GetConnection()
         {
