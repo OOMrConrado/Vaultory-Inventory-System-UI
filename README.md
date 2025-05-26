@@ -67,9 +67,5 @@ If you need to modify the connection string for your environment:
 
 ---
 
-![maxed dashboard](https://github.com/user-attachments/assets/8fd3fdd8-baee-411f-a203-dc811aa0e026)
-
----
-
 ![2normal-dashboard](https://github.com/user-attachments/assets/7558fa4a-5251-4f06-9209-191eda95f59c)
 
